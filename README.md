@@ -7,3 +7,5 @@ Releases contain Zotero TLDR and Supplement PDF, update metadata, source files, 
 Install XPI files through Zotero Tools → Plugins → Install Plugin From File. Older personal installations need one manual update to adopt this update source.
 
 This repository contains no Zotero profiles or library data.
+
+Read the [short plugin guide](plugin-guide.md) for duplicate cleanup, missing summaries, and compatibility updates.
